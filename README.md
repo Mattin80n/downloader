@@ -74,3 +74,11 @@ a
 
 موفق باشید.
 
+
+---
+
+## فایل های دانلود شده در گیتهاب شما :
+
+1 - [bettercap_linux_amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/bettercap_linux_amd64)
+
+---
