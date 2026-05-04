@@ -81,10 +81,13 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [bettercap_linux_amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/bettercap_linux_amd64)
 2 - [c23fce2f-86f8-4435-b191-f0390177b310](https://github.com/Mattin80n/downloader/tree/main/downloads/c23fce2f-86f8-4435-b191-f0390177b310)
-3 - [thefeed-client-v0.14.8-windows-amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/thefeed-client-v0.14.8-windows-amd64)
+3 - [tele-mirror-x64-win](https://github.com/Mattin80n/downloader/tree/main/downloads/tele-mirror-x64-win)
+4 - [thefeed-client-v0.14.8-windows-amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/thefeed-client-v0.14.8-windows-amd64)
 
 ---
