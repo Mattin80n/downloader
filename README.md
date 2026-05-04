@@ -77,8 +77,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [bettercap_linux_amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/bettercap_linux_amd64)
+2 - [thefeed-client-v0.14.8-windows-amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/thefeed-client-v0.14.8-windows-amd64)
 
 ---
