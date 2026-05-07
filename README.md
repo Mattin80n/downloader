@@ -95,9 +95,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [mhrv-rs-android-arm64-v8a-v1.9.13](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.13)
-2 - [mhrv-rs-linux-amd64.tar](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-linux-amd64.tar)
+1 - [bettercap_linux_amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/bettercap_linux_amd64)
+2 - [mhrv-rs-android-arm64-v8a-v1.9.13](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.13)
+3 - [mhrv-rs-linux-amd64.tar](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-linux-amd64.tar)
 
 ---
