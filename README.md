@@ -109,8 +109,11 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [sm64coopdx](https://github.com/Mattin80n/downloader/tree/main/downloads/sm64coopdx)
+2 - [sm64coopdx_Windows_DirectX](https://github.com/Mattin80n/downloader/tree/main/downloads/sm64coopdx_Windows_DirectX)
 
 ---
