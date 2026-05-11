@@ -103,6 +103,8 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
 1 - [Seen+in+Liberty+City+%28ULUS11826%29+%28EN%29](https://github.com/Mattin80n/downloader/tree/main/downloads/Seen+in+Liberty+City+%28ULUS11826%29+%28EN%29)
@@ -111,5 +113,6 @@ a
 4 - [mhrv-rs-android-arm64-v8a-v1.9.17](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.17)
 5 - [mhrv-rs-android-arm64-v8a-v1.9.21](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-android-arm64-v8a-v1.9.21)
 6 - [mhrv-rs-linux-amd64.tar](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-linux-amd64.tar)
+7 - [mhrv-rs-windows-amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
 
 ---
