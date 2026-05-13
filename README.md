@@ -111,9 +111,12 @@ a
 
 ---
 
+---
+
 ## فایل های دانلود شده در گیتهاب شما :
 
-1 - [sm64coopdx](https://github.com/Mattin80n/downloader/tree/main/downloads/sm64coopdx)
-2 - [sm64coopdx_Windows_DirectX](https://github.com/Mattin80n/downloader/tree/main/downloads/sm64coopdx_Windows_DirectX)
+1 - [mhrv-rs-windows-amd64](https://github.com/Mattin80n/downloader/tree/main/downloads/mhrv-rs-windows-amd64)
+2 - [sm64coopdx](https://github.com/Mattin80n/downloader/tree/main/downloads/sm64coopdx)
+3 - [sm64coopdx_Windows_DirectX](https://github.com/Mattin80n/downloader/tree/main/downloads/sm64coopdx_Windows_DirectX)
 
 ---
